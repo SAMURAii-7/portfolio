@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.50.0"
+  },
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass -w scss/:dist/css/"
+  }
+}

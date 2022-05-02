@@ -1,7 +1,7 @@
 # Portfolio Website
 Portfolio website using HTML, Sass, JS
 
-## Install
+## Installation
 ```sh
 npm install
 ```

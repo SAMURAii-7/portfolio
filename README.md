@@ -5,3 +5,7 @@ Portfolio website using HTML, Sass, JS
 ```sh
 npm install
 ```
+or
+```sh
+yarn install
+```
